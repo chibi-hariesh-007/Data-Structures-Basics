@@ -1,6 +1,7 @@
 #include "Stack.h"
 #include <stdio.h>
 
+
 int main() {
     int capacity;
     printf("Enter the capacity of the stack: ");

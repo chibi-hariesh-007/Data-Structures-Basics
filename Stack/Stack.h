@@ -15,7 +15,6 @@ typedef struct {
     int int_v;
 } Dtype;
 
-const 
 /*Stack creation happens here*/
 Stack* createStack(int capacity) {
     Stack* stack = (Stack*)malloc(sizeof(Stack));
